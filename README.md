@@ -1,17 +1,21 @@
-Playwright Automation Testing Project
-This repository contains automated functional test cases using Playwright to test the Singlish to Sinhala Translator web application.
+# Playwright Automation Testing Project
 
-Project Description
-The test suite includes positive and negative functional test cases to validate the translation accuracy and error handling.
+This repository contains automated functional test cases using Playwright
+to test the Singlish to Sinhala Translator web application.
 
-Installation
-npm install
-npx playwright install
-Run Tests
+## Project Description
+The test suite includes positive and negative functional test cases
+to validate the translation accuracy and error handling.
+
+## Installation
+1. npm install
+2. npx playwright install
+
+## Run Tests
 npx playwright test
 
-Test Report
+## Test Report
 npx playwright show-report
 
-Student ID
+## Student ID
 IT23296664
